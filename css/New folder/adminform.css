@@ -1,0 +1,100 @@
+label{
+    padding-left: 10px;
+    font-weight: 600;
+    font-size: 1.8rem;
+}
+
+.c-txt{
+    display: block;
+    width: 90%;
+    box-sizing: border-box;
+    margin: 10px 10px;
+    padding: 5px;
+    padding-left: 20px;
+    border-radius: 3px;
+    background-color: transparent;
+    outline: none;
+    color: rgb(10, 10, 10);
+    transition: all 0.5s;
+    font-size: 1.6rem;
+}
+
+.txt{
+    display: block;
+    width: 90%;
+    height: 40px;
+    box-sizing: border-box;
+    margin: 10px 10px;
+    padding: 8px;
+    margin-bottom: 15px;
+    padding-left: 20px;
+    border-radius: 3px;
+    background-color: transparent;
+    outline: none;
+    transition: all 0.5s;
+    font-size: 1.6rem;
+    outline: 0.1rem solid rgb(34, 33, 33);
+}
+
+.form-control{
+    display: block;
+    width: 90%;
+    height: 40px;
+    box-sizing: border-box;
+    margin: 10px 10px;
+    padding: 8px;
+    margin-bottom: 15px;
+    padding-left: 20px;
+    border-radius: 3px;
+    background-color: transparent;
+    outline: none;
+    color: rgb(10, 10, 10);
+    transition: all 0.5s;
+    font-size: 1.6rem;
+    outline: 0.2rem solid black;
+}
+
+.c-txt:focus{
+    padding: 8px 8px;
+    }
+
+.btn{
+ padding-left: 750px;
+}
+
+button{
+    display: inline-block;
+    padding: 5px 50px;
+    margin-left: 10px;
+    border: none;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    height: 50px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.btn1{
+    color: #ffffff;
+    background-color: rgba(44, 42, 45, 0.867);
+}
+
+.btn2{
+    color: #ffffff;
+    background-color: rgba(5, 4, 100, 0.867);
+}
+
+.btn1:hover{
+    color: rgb(10, 10, 10);
+    font-size: 1.6rem;
+    font-weight: 800;
+    }
+
+.btn2:hover{
+    color: rgb(10, 10, 10);
+    font-size: 1.6rem;
+    font-weight: 800;
+    }
